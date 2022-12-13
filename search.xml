@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/posts/16107/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>index</title>
+    <url>/posts/19498/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>picture</title>
+    <url>/posts/22354/</url>
+    <content><![CDATA[<p><img src="/images/image.png" alt="upload successful"></p>
+<p>efhghsfstjdghrgejhrjj</p>
+]]></content>
+      <tags>
+        <tag>demo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>demooo</title>
+    <url>/posts/16645/</url>
+    <content><![CDATA[<p>12y4 grdh dh jkjd fgxj fk  </p>
+]]></content>
+  </entry>
+  <entry>
+    <title>fwdwd</title>
+    <url>/posts/30837/</url>
+    <content><![CDATA[<p>bsgeshrhedeployCommand</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>fwdwd</title>
+    <url>/posts/30836/</url>
+    <content><![CDATA[<p>古色广东省如何如何的好他可以日课我认为与人好帖好帖安格斯公司一个好人特红色电话接入资金投入开机国十条饿挖个会突然基于肯特省交通</p>
+]]></content>
+      <categories>
+        <category>1</category>
+      </categories>
+      <tags>
+        <tag>tags1</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>wdwdadwgwadgwe</title>
+    <url>/posts/undefined/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>page</title>
+    <url>/posts/undefined/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+</search>
